@@ -8,7 +8,7 @@ Features
 
 ．Supports data input of any length.
 
-．Optional parity check bit.
+．Optional double error detection.
 
 ．Error injection function provided for testing the effectiveness of the Hamming code.
 
